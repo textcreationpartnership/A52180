@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>One mite more cast into God's treasury, in some prison-meditations, or, Observations and breathings of an honest heart, touching Englands condition now at this day published, to be seriously pondred and considered of, in a cool spirit, by those in authority, and all the sober-minded people in the nation.</title>
+            <author>Mason, Martin, fl. 1650-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52180</idno>
+            <idno type="STC">Wing M932</idno>
+            <idno type="STC">ESTC R15730</idno>
+            <idno type="EEBO-CITATION">12951563</idno>
+            <idno type="OCLC">ocm 12951563</idno>
+            <idno type="VID">95925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95925)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 720:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>One mite more cast into God's treasury, in some prison-meditations, or, Observations and breathings of an honest heart, touching Englands condition now at this day published, to be seriously pondred and considered of, in a cool spirit, by those in authority, and all the sober-minded people in the nation.</title>
+                  <author>Mason, Martin, fl. 1650-1676.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Martin Mason.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95925:1"/>
+            <pb facs="tcp:95925:1" rendition="simple:additions"/>
+            <p>One MITE more CAST INTO God's Treaſury, IN SOME
+Priſon-Meditations: OR, OBSERVATIONS and BREATHINGS of an <hi>Honest
+Heart,</hi> touching <hi>Englands</hi> Condition now at this day.</p>
+            <p>Publiſhed, to be ſeriouſly pondred and conſi<g ref="char:EOLhyphen"/>dered of, in
+a cool ſpirit, by thoſe in Autho<g ref="char:EOLhyphen"/>rity, and all the Sober-minded People in
+the Nation.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95925:2"/>
+            <pb n="3" facs="tcp:95925:2" rendition="simple:additions"/>
+            <head>One MITE more caſt into GOD'S TREASURY; IN Some
+<hi>Priſon-Meditations, &amp;c.</hi>
+            </head>
+            <p>THat the Tender-hearted have yet a being in the Land of their
+Nativity, to wreſtle with <hi>Iſraels God</hi> on the behalf of
+<hi>Sion,</hi> now oppreſ<g ref="char:EOLhyphen"/>ſed by a ſeed of evil-doers, is a mercy (in my
+eye) not of the leaſt magnitude, conſidering how ſtrongly the
+<hi>Myſtery of Iniquity</hi> hath for a long time wrought, and ſtill bends
+its ſtrength againſt <hi>Innocency,</hi> utterly to ex<g ref="char:EOLhyphen"/>tinguiſh the very
+Life and Power of Godlineſs out of the Nation: For, ſounds not
+<hi>Iniquity</hi> her Trumpet in thy ſtreets, O <hi>England,</hi> with an
+impudent forehead? Is not <hi>Piety</hi> become a <hi>ſcorn,</hi> and
+<hi>Sobriety</hi> and <hi>Tempe<g ref="char:EOLhyphen"/>rance</hi> a <hi>reproach</hi> unto the People?
+even to the ſons of Vanity, who bluſh not to commit Iniquity, but vaunt
+themſelves over the Seed of <hi>Innocency,</hi> glorying in that which will
+aſſuredly be their ſhame; conſuming precious time in <hi>palpable
+prophaneſs,</hi> living as if they ſhould never dye; ranting it with
+abominable impu<g ref="char:EOLhyphen"/>dence, as if Iniquity ſhould outlive Eternity, and their
+Wickedneſs ſhould never have an end.</p>
+            <p>Ah <hi>England, England!</hi> haſt thou but a handfull of
+<hi>harmleſs ones,</hi> a little remnant within thy borders, whoſe
+<hi>Innocency</hi> thy Cruelties could <hi>never conquer</hi> yet, nor
+<hi>never ſhall:</hi> Haſt thou, I ſay, but a little
+<pb n="4" facs="tcp:95925:3" rendition="simple:additions"/>Remnant of ſuch an <hi>Innocent
+People,</hi> who <hi>cannot bow the knee to Baal,</hi> nor purchaſe their
+external ſecurity by defiling their Conſciences, and ſinning againſt
+their own Souls, yet have ever loved thee, and their Prayers and Tears are not
+wanting to the God of all thy Mercies for thee, even now when ſome of the
+Nations ſeem to conſpire and riſe up againſt thee, and yet muſt thy
+Wrath (in ſuch a juncture of time as this) needs vent it ſelf upon this
+harmleſs and help<g ref="char:EOLhyphen"/>leſs People? Come let us reaſon together, and ſuffer
+my Innocency to expoſtulate the matter a little with thee.</p>
+            <p>What is the main thing wherein this People do of<g ref="char:EOLhyphen"/>fend thee? Is it
+becauſe the Off-ſpring of <hi>Mordeca,</hi> the true Seed of
+<hi>Abraham,</hi> cannot bow to <hi>Haman</hi>'s brood? Or, is it, becauſe
+Innocency meets with an acceptance from God, when the Sacrifice of the Wrathful
+is rejected? Or, is it, becauſe the Lord is pleaſed to preſerve them from
+many of the Pollutions wherewith the generality of thy Prieſts and People (O
+<hi>England</hi>) are defiled at this day? Wouldſt thou have all to be
+equally guilty of the crying ſins that are regnant in the Nation? What,
+wouldſt thou have none to ſtand in the Gap to intercede to thy God for
+thee? Art thou ſo heart-blind that thou canſt not ſee the hand of God to
+be againſt thee? if ſo, then ſurely groſs darkneſs hath vailed thy
+underſtanding, and thine eye is not in Him who ſhould be thy Head: How does
+my Soul lament and pitty thee! O that <hi>Iſraels</hi> God might be entreated
+to ſhew mercy to thee, and deal more favourably with thee than thou haſt
+done unto his innocent People!</p>
+            <pb n="5" facs="tcp:95925:3" rendition="simple:additions"/>
+            <p>Oh <hi>England, England!</hi> haſt thou not had a large
+experience of their <hi>Innocency</hi> towards thee? Which of them haſt thou
+found contriving any miſchief againſt thee? Or, were ever any of them,
+ſince they denied the Inſtruments of War, proved guilty of plotting
+againſt thy Peace? Ah why then do thy Princes proceed thus ſeverely, and
+ſuffer ſome un<g ref="char:EOLhyphen"/>reaſonable men to act thus unworthily againſt them? Wilt
+thou needs haſten the heavy Judgments of God upon thee? Canſt thou think he
+will forget to plead his Controverſie with thee? Haſt thou not ſins enow
+beſides, that do highly provoke Him, but thou muſt needs add this to the
+reſt, that thou wilt be found fighting againſt the Mighty God that made
+thee, by dealing thus cruelly with his <hi>innocent People,</hi> who were born
+within thy borders, and have all-along been ready to ſhew kindneſs unto
+thee, in the ſecret of their hearts breathing to thy God for thee, that his
+fierce Anger (if it were his holy Will) might be turned away from Thee, and thy
+People humbled, and their Souls from the power of Sin and Satan ran<g ref="char:EOLhyphen"/>ſomed,
+and ſo the Righteous God be reconciled unto them?</p>
+            <p>Why wilt thou contend thus with the God of <hi>Sions
+Innocency?</hi> How long wilt thou perſiſt thus in thy ſpirit of
+Obſtinacy? Wilt thou ſuffer thy ſins to ſound a defiance to the God of
+all thy Mercies? Hath Preſumption lull'd thee into ſuch a dangerous ſleep
+of carnal ſecurity, that thou art paſt all ſenſe of danger or miſery
+that may come upon thee? Canſt thou be ſo imprudent, as to apprehend or
+imagine that thou ſhalt proſper in this thy Perſecution? Will
+<pb n="6" facs="tcp:95925:4" rendition="simple:additions"/>that God who is ſo jealous of
+his Honour, ſuffer thy ignorant dreaming <hi>Prieſts,</hi> and thoſe
+devouring Cor<g ref="char:EOLhyphen"/>morants (the <hi>Biſhops Courts</hi>) to intrude into his
+Throne, and not give them a Rebuke? Will He not viſit for this thing? Mark
+their latter end.</p>
+            <p>Which of you all, O ye Prieſts of the Nation, who <hi>preach for
+hire,</hi> and <hi>divine for money;</hi> and you that are ſo willingly their
+Inſtruments of Cruelty, I ſay, which of you all do deal with this
+<hi>Innocent People,</hi> as you would have them do unto you? If God ſhould
+ever ſuffer any of them to have Authority in the Na<g ref="char:EOLhyphen"/>tion, whom now you ſeek
+to trample on, Would you be well contented, if they ſhould ſeek to lord it
+over your Conſciences, as you do over theirs; and cage your bodies up in
+Priſons, as you have done ſome of theirs; and endeavour to baniſh you
+from your Wives and Children, becauſe you could not baniſh the Fear of God
+out of your hearts; and caſt away the comfort (and make ſhipwrack) of Faith
+and a good Conſcience, and ſo come under the terrour of a wounded ſpirit,
+which who can bear? Tell me, I ſay, and let God's Witneſs in your
+Conſciences give an Anſwer to me; Would you not count it hard meaſure if
+ſuch a yoak ſhould be laid upon you? Conſider of this in a cool ſpirit,
+when paſſion is down: And then tell me alſo, if every one muſt not
+anſwer to God for his own Soul? And while people walk honeſtly and live
+peaceably in the Nation, is it the Magiſtrates work or duty to impriſon
+them, or en<g ref="char:EOLhyphen"/>deavour to baniſh them out of the Land of their na<g ref="char:EOLhyphen"/>tivity? Did
+ever any of the good Kings of <hi>Iſrael</hi> do as you have done againſt
+an <hi>innocent People?</hi> Or, <pb n="7" facs="tcp:95925:4" rendition="simple:additions"/>which
+of <hi>Iſraels</hi> Rulers or Judges, who lived in the fear of God, can you
+produce for your Preſident herein?</p>
+            <p>Oh <hi>England, England!</hi> is <hi>Innocency</hi> become ſuch
+in unpardonable crime, that thou thus preſumeſt in thy blinde zeal to
+perſecute it with more venome or bitterneſs of ſpirit than thou doſt
+the Common Vi<g ref="char:EOLhyphen"/>pers in the Nation, in whom Iniquity abounds with an Impudent
+forehead? O that thou wouldeſt well conſider of this, now in this thy day,
+before <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſig<g ref="char:EOLhyphen"/>nal
+Judgements of thy God do ſeize upon thee! O that thou couldſt bridle that
+furious ſpirit in thee, that is ſo bitter againſt God's People! which if
+thou doſt not endeavour to do, and that timely too, let me tell thee, God
+will give thee a <hi>bitter Cup</hi> to drink, and then verily thou muſt
+drink the very dregs of it: If thou wilt ſtop thy ear to the ſound of his
+Voice, who in the ſecret of the heart lets thee ſee the evil of thy doings,
+and would have thee ceaſe from thy Ini<g ref="char:EOLhyphen"/>quities, and turn unto the Righteous
+God; I ſay, if thou wilt perverſly go on in the frowardneſs of thy heart,
+and wilfully perſiſt in this thy Perſecution, Know this from the LORD,
+The Hand of God will be againſt thee, his Controverſie, his <hi>great
+Controver<g ref="char:EOLhyphen"/>ſie</hi> He will plead with thee; and then, O <hi>England,
+England,</hi> what will become of thee? A day of Mi<g ref="char:EOLhyphen"/>ſery will come upon thee:
+<hi>Sorrow and Pain will take bold of the Perſecuting Spirit, whoſe delight
+is in Cru<g ref="char:EOLhyphen"/>elty. The Fire of the Lord will be kindled againſt it, and will not
+be quenched until the Myſtery of Iniquity be utterly conſumed, Root and
+Branch.</hi>
+            </p>
+            <pb n="8" facs="tcp:95925:5" rendition="simple:additions"/>
+            <p>Thus have I once more (O <hi>England</hi>) cleared my Conſcience
+concerning thee<g ref="char:punc">▪</g> O that Repentance may not be hid from thy eyes, if it be
+the good will of God; O that thy Rulers, Prieſts, and People, may no longer
+reject the Counſel of the Lord in their own Conſciences; But if they will
+not hearken and obey Him<g ref="char:punc">▪</g> yet I ſhall be clear of them when they are
+judged.</p>
+            <closer>
+               <signed>Martin Maſon.</signed>
+               <dateline>
+                  <hi>Lincoln,</hi>
+                  <date>the 20th day of the firſt month, (called <hi>March.</hi>)
+1664/5.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:95925:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
